@@ -20,7 +20,7 @@
 <a href="https://sk.ru/" target="_blank" title="Cколково"></a>
 ```
 
-![Screenshot]https://github.com/SerOmmm/bug_reports_for_example/blob/main/Screenshot_3.png
+![Screenshot](https://github.com/SerOmmm/bug_reports_for_example/blob/main/Screenshot_3.png)
 
 **Окружение**: 
 PC (Windows 10), Chrome 120.0.6099.225, разрешение 1920х1080 <br>
