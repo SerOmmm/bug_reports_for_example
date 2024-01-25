@@ -26,7 +26,7 @@
 PC (Windows 10), Chrome 120.0.6099.225, разрешение 1920х1080 <br>
 Xiaomi Redmi 11 Pro 5G (Android 13), Chrome mobile  120.0.6099.230, разрешение 1080x2400
 
-**Серьезность**: Minor
+**Серьезность**: Minor <br>
 **Приоритет**: Medium
 
 ***
